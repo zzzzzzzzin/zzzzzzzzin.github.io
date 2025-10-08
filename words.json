@@ -1,0 +1,2274 @@
+[
+  {
+    "word": "perspective",
+    "meaning": "관점, 시각, 전망, 원근법"
+  },
+  {
+    "word": "fundamental",
+    "meaning": "근본적인, 기본적인, 핵심적인; 원리, 기초"
+  },
+  {
+    "word": "cognitive",
+    "meaning": "인지의, 인식의"
+  },
+  {
+    "word": "phenomenon",
+    "meaning": "현상, 사건"
+  },
+  {
+    "word": "address",
+    "meaning": "다루다, 대처하다, 처리하다, 해결하다, 건네다, 보내다; 주소, 연설"
+  },
+  {
+    "word": "generate",
+    "meaning": "생산하다, 생성하다, 창출하다, 일으키다"
+  },
+  {
+    "word": "perception",
+    "meaning": "지각, 인식, 인지"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "설명하다, 입증하다, 보여주다, 증명하다, 논증하다; 증거, 입증, 공개 실험, 시연, 시범"
+  },
+  {
+    "word": "release",
+    "meaning": "발산, 방출, 분비, 표출, 방면, 발매; 방출하다, 해방하다, 발표(공개)하다, 출시하다, 표출하다, 석방하다"
+  },
+  {
+    "word": "conduct",
+    "meaning": "수행하다, (특정한 활동을) 하다, 실시하다, 처리하다, 운영하다, 관리하다; 행동, 행위"
+  },
+  {
+    "word": "perceive",
+    "meaning": "인지하다, 지각하다, 인식하다, 감지하다"
+  },
+  {
+    "word": "potential",
+    "meaning": "잠재적인, 잠재력, 가능성"
+  },
+  {
+    "word": "bias",
+    "meaning": "편견, 성향, 편향성, 편향, 경향"
+  },
+  {
+    "word": "conflict",
+    "meaning": "갈등, 충돌, 갈등"
+  },
+  {
+    "word": "context",
+    "meaning": "상황, 맥락, 환경"
+  },
+  {
+    "word": "feature",
+    "meaning": "특징, 특색, 특별, 특집 기사; 특별히 다루다(포함하다), (~을) 특집으로 하다"
+  },
+  {
+    "word": "tendency",
+    "meaning": "경향, 성향, 풍조, 추세"
+  },
+  {
+    "word": "determine",
+    "meaning": "결정하다, 알아내다, 밝히다, 파악하다"
+  },
+  {
+    "word": "relevant",
+    "meaning": "관련된, 적절한, 의미 있는, 중요한, 타당한"
+  },
+  {
+    "word": "outcome",
+    "meaning": "결과, 성과"
+  },
+  {
+    "word": "alternative",
+    "meaning": "대안의, 다른, 대체 의학의; 대안, 대체품, 양자택일"
+  },
+  {
+    "word": "reinforce",
+    "meaning": "강화하다, 보강하다"
+  },
+  {
+    "word": "aspect",
+    "meaning": "측면, 양상"
+  },
+  {
+    "word": "encounter",
+    "meaning": "마주치다, 접하다, (우연히) 만나다, 겪다, 맞닥뜨리다; 우연한 만남, 경험"
+  },
+  {
+    "word": "discipline",
+    "meaning": "부문, 분야, 절제력, 자제심, 규율, 훈련, 수련, 훈육"
+  },
+  {
+    "word": "property",
+    "meaning": "속성, 특성, 성질, 부동산, 재산, 소유권, 소유지"
+  },
+  {
+    "word": "predator",
+    "meaning": "포식자"
+  },
+  {
+    "word": "represent",
+    "meaning": "대표하다, 나타내다, 표현하다, 대변하다, 의미하다, 표시하다"
+  },
+  {
+    "word": "interpret",
+    "meaning": "해석하다"
+  },
+  {
+    "word": "exceed",
+    "meaning": "초과하다, 능가하다"
+  },
+  {
+    "word": "crucial",
+    "meaning": "매우 중요한, 결정적인"
+  },
+  {
+    "word": "insight",
+    "meaning": "통찰력, 식견, 통찰"
+  },
+  {
+    "word": "external",
+    "meaning": "외부의, 외재적인"
+  },
+  {
+    "word": "domain",
+    "meaning": "분야, 영역, 범위"
+  },
+  {
+    "word": "capacity",
+    "meaning": "능력, (기계의) 용량"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "현대의, 동시대의"
+  },
+  {
+    "word": "mechanism",
+    "meaning": "기제, 매커니즘, 구조, (목적을 달성하기 위한) 방법"
+  },
+  {
+    "word": "figure",
+    "meaning": "형상, 기호, 수치, 인물; 생각하다, 계산하다, 중요한 역할을 하다"
+  },
+  {
+    "word": "identify",
+    "meaning": "식별하다, 발견하다, 동일시하다, 확인하다"
+  },
+  {
+    "word": "significant",
+    "meaning": "상당한, 중요한, 의미 있는"
+  },
+  {
+    "word": "immediate",
+    "meaning": "즉각적인, 직접적인, 인접한, 당면한"
+  },
+  {
+    "word": "capture",
+    "meaning": "포착하다, 사로잡다, 획득하다"
+  },
+  {
+    "word": "recognize",
+    "meaning": "인식하다, 인정하다, 인지하다"
+  },
+  {
+    "word": "trigger",
+    "meaning": "촉발하다, 일으키다; 방아쇠, 유인, 자극"
+  },
+  {
+    "word": "arise",
+    "meaning": "생기다, 발생하다, 일어나다"
+  },
+  {
+    "word": "notion",
+    "meaning": "개념, 관념"
+  },
+  {
+    "word": "engage in",
+    "meaning": "~에 참여 [관여]하다, ~을 수행하다, 실행하다, 종사하다"
+  },
+  {
+    "word": "assume",
+    "meaning": "가정하다, 추정하다, 상정하다, 생각하다, (책임 등을) 맡다[지다]"
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "가설"
+  },
+  {
+    "word": "assessment",
+    "meaning": "평가"
+  },
+  {
+    "word": "distribution",
+    "meaning": "배급, 배포, 유통, 전파, 분포, 분배, 배치"
+  },
+  {
+    "word": "variation",
+    "meaning": "변화, 차이, 변동, 변이, 변형물"
+  },
+  {
+    "word": "extend",
+    "meaning": "연장하다, 확장하다, (~에) 이르다"
+  },
+  {
+    "word": "intervention",
+    "meaning": "개입, 조정, 간섭"
+  },
+  {
+    "word": "access",
+    "meaning": "접근, 이용, 접근성, 이용 권한; 이용하다, 접근하다"
+  },
+  {
+    "word": "implement",
+    "meaning": "시행하다, 실행하다, 이행하다, 실시하다"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "적절한, 적합한, 적당한; 자기 것으로 만들다, 사용하다, (마음대로) 가져가다"
+  },
+  {
+    "word": "dimension",
+    "meaning": "차원, 크기, 요인, 요소, 규모, 치수"
+  },
+  {
+    "word": "foster",
+    "meaning": "촉진하다, 조성하다, 키우다, 기르다, 북돋우다"
+  },
+  {
+    "word": "strategy",
+    "meaning": "전략, 계획, 술수"
+  },
+  {
+    "word": "involve",
+    "meaning": "포함하다, 수반하다, 연루시키다, 참여시키다"
+  },
+  {
+    "word": "enhance",
+    "meaning": "향상하다, 강화하다, 높이다, 올리다"
+  },
+  {
+    "word": "initial",
+    "meaning": "초기의, 처음의, 최초의"
+  },
+  {
+    "word": "device",
+    "meaning": "기기, 장치, 기구"
+  },
+  {
+    "word": "urban",
+    "meaning": "도시의, 도시에 사는"
+  },
+  {
+    "word": "promote",
+    "meaning": "장려하다, 촉진하다, 홍보하다, 조장하다, 승진시키다"
+  },
+  {
+    "word": "spatial",
+    "meaning": "공간의, 공간적인"
+  },
+  {
+    "word": "assign",
+    "meaning": "배정하다, 할당하다, 부여하다, 배당하다"
+  },
+  {
+    "word": "barrier",
+    "meaning": "장벽, 장애물"
+  },
+  {
+    "word": "convention",
+    "meaning": "관습, 관례"
+  },
+  {
+    "word": "application",
+    "meaning": "적용, 활용, 용도, 응용 프로그램, 앱"
+  },
+  {
+    "word": "organism",
+    "meaning": "유기체, 생물, 생명체"
+  },
+  {
+    "word": "maintain",
+    "meaning": "유지하다, 주장하다"
+  },
+  {
+    "word": "misleading",
+    "meaning": "오도하는, 오해를 일으키는"
+  },
+  {
+    "word": "initially",
+    "meaning": "초기의, 처음에는"
+  },
+  {
+    "word": "overcome",
+    "meaning": "극복하다"
+  },
+  {
+    "word": "sensory",
+    "meaning": "감각의, 감각적인"
+  },
+  {
+    "word": "representation",
+    "meaning": "대표(성), 표현, 표상, 나타냄, 대리, 묘사, 진술, 설명"
+  },
+  {
+    "word": "assess",
+    "meaning": "평가하다, 판단하다, (세금 등을) 산정하다"
+  },
+  {
+    "word": "objective",
+    "meaning": "객관적인; 목적, 목표"
+  },
+  {
+    "word": "statement",
+    "meaning": "진술, 발언, 설명, 표명, 언급"
+  },
+  {
+    "word": "inspire",
+    "meaning": "영감을 주다, 고취하다"
+  },
+  {
+    "word": "incorporate",
+    "meaning": "(일부로) 포함하다, 통합하다, (법인을) 설립하다, 혼합하다"
+  },
+  {
+    "word": "foundation",
+    "meaning": "토대, 기반, 기초, 재단"
+  },
+  {
+    "word": "component",
+    "meaning": "구성 요소; 구성하는"
+  },
+  {
+    "word": "note",
+    "meaning": "알아차리다, 언급하다, 주목하다; 메모, 음표"
+  },
+  {
+    "word": "rational",
+    "meaning": "합리적인, 이성적인"
+  },
+  {
+    "word": "embody",
+    "meaning": "구현하다, 구체화하다, 상징하다, 포함하다"
+  },
+  {
+    "word": "convey",
+    "meaning": "전달하다, 운반하다"
+  },
+  {
+    "word": "alter",
+    "meaning": "바꾸다, 변형하다, 고치다"
+  },
+  {
+    "word": "function",
+    "meaning": "기능, 함수; 기능하다, 역할을 하다, 작동하다"
+  },
+  {
+    "word": "reflect",
+    "meaning": "반영하다, 숙고하다"
+  },
+  {
+    "word": "diminish",
+    "meaning": "폄하하다, 깎아내리다, 줄이다, 쇠약하게 하다, 약화시키다, 감소하다, 떨어뜨리다"
+  },
+  {
+    "word": "theoretical",
+    "meaning": "이론적인, 이론의"
+  },
+  {
+    "word": "procedure",
+    "meaning": "절차, 수술, (의학적인) 처치"
+  },
+  {
+    "word": "sufficient",
+    "meaning": "충분한, (~하기에) 족한"
+  },
+  {
+    "word": "constitute",
+    "meaning": "구성하다, 이루다"
+  },
+  {
+    "word": "convince",
+    "meaning": "확신시키다, 납득시키다, 설득하다"
+  },
+  {
+    "word": "tension",
+    "meaning": "긴장 (상태), 긴장감, 갈등, 흥분"
+  },
+  {
+    "word": "assumption",
+    "meaning": "가정, 추정"
+  },
+  {
+    "word": "measure",
+    "meaning": "척도, 측정치, 기준, 조치; 측정하다, 재다"
+  },
+  {
+    "word": "accurate",
+    "meaning": "정확한"
+  },
+  {
+    "word": "preserve",
+    "meaning": "보존하다, 지키다, 유지하다"
+  },
+  {
+    "word": "imply",
+    "meaning": "암시하다, 넌지시 내비치다, 의미하다, 수반하다, 내포하다"
+  },
+  {
+    "word": "cultivate",
+    "meaning": "기르다, 함양하다"
+  },
+  {
+    "word": "accompany",
+    "meaning": "~에 동반하다, 동행하다"
+  },
+  {
+    "word": "consequence",
+    "meaning": "결과"
+  },
+  {
+    "word": "dominate",
+    "meaning": "지배하다, 우세하다, 제압하다, 장악하다"
+  },
+  {
+    "word": "extensive",
+    "meaning": "광범위한, 폭넓은"
+  },
+  {
+    "word": "define",
+    "meaning": "정의하다, 규정하다"
+  },
+  {
+    "word": "diverse",
+    "meaning": "다양한, 다양한 배경을 가진"
+  },
+  {
+    "word": "contract",
+    "meaning": "계약하다, 수축시키다, 줄어들다; 계약(서)"
+  },
+  {
+    "word": "accumulate",
+    "meaning": "누적하다, 축적하다"
+  },
+  {
+    "word": "pursuit",
+    "meaning": "추구, 일, 연구, 활동"
+  },
+  {
+    "word": "adaptation",
+    "meaning": "적응, 순응, 각색"
+  },
+  {
+    "word": "invariably",
+    "meaning": "항상, 반드시, 언제나"
+  },
+  {
+    "word": "institution",
+    "meaning": "기관, 시설, 제도"
+  },
+  {
+    "word": "relative",
+    "meaning": "상대적인; 친척, 친족"
+  },
+  {
+    "word": "flourish",
+    "meaning": "번창하다, 번영하다, 꽃피다, 발현되다, 풍요롭게 살다, 활약하다, 창궐하다"
+  },
+  {
+    "word": "resident",
+    "meaning": "주민, 거주자, 거주민"
+  },
+  {
+    "word": "equipment",
+    "meaning": "장비, 설비"
+  },
+  {
+    "word": "struggle",
+    "meaning": "고군분투하다, 애쓰다; 투쟁, 고충, 어려움"
+  },
+  {
+    "word": "grant",
+    "meaning": "주다, 인정하다, 허가하다, 수여하다, 승인하다, 지급하다; 보조금"
+  },
+  {
+    "word": "awareness",
+    "meaning": "의식, 인식, 자각"
+  },
+  {
+    "word": "observe",
+    "meaning": "관찰하다, 관측하다, 지키다, 따르다, 말하다, 진술하다"
+  },
+  {
+    "word": "decline",
+    "meaning": "감소하다, 줄어들다, 쇠퇴하다; 쇠퇴, 감소, 하락"
+  },
+  {
+    "word": "conventional",
+    "meaning": "전통적인, 종래의, 관례의, 관습적인, 상투적인"
+  },
+  {
+    "word": "flexibility",
+    "meaning": "유연성, 융통성"
+  },
+  {
+    "word": "primary",
+    "meaning": "주요한, 가장 중요한, 1차의, 위주의, 우선의"
+  },
+  {
+    "word": "replace",
+    "meaning": "대체하다, 교체하다"
+  },
+  {
+    "word": "contribute to",
+    "meaning": "~에 기여하다, ~의 원인이 되다"
+  },
+  {
+    "word": "obtain",
+    "meaning": "얻다, 획득하다"
+  },
+  {
+    "word": "primarily",
+    "meaning": "주로"
+  },
+  {
+    "word": "specific",
+    "meaning": "구체적인, 특정한"
+  },
+  {
+    "word": "reputation",
+    "meaning": "평판, 명성"
+  },
+  {
+    "word": "advocate",
+    "meaning": "옹호하다, 지지하다; 지지자, 옹호자"
+  },
+  {
+    "word": "principle",
+    "meaning": "원칙, 원리"
+  },
+  {
+    "word": "distress",
+    "meaning": "(심리적) 고통, 괴로움"
+  },
+  {
+    "word": "original",
+    "meaning": "최초의, 원래의, 독창적인"
+  },
+  {
+    "word": "eliminate",
+    "meaning": "없애다, 제거하다"
+  },
+  {
+    "word": "inhabit",
+    "meaning": "~에 살다[거주하다, 서식하다], ~에 자리 잡다"
+  },
+  {
+    "word": "maintenance",
+    "meaning": "유지, 보수 관리, 정비, 지속"
+  },
+  {
+    "word": "underlying",
+    "meaning": "근본적인, 잠재적인, 기저에 있는, 기본적인"
+  },
+  {
+    "word": "facilitate",
+    "meaning": "촉진하다, 용이하게 하다"
+  },
+  {
+    "word": "yield",
+    "meaning": "산출하다, 낳다; 굴복하다, 양보하다"
+  },
+  {
+    "word": "evolve",
+    "meaning": "진화하다, 발전하다, 진화 [발달]시키다, 생성하다"
+  },
+  {
+    "word": "numerous",
+    "meaning": "수많은, 다수의"
+  },
+  {
+    "word": "accommodate",
+    "meaning": "수용하다, (요구 등에) 맞추다, 부응하다"
+  },
+  {
+    "word": "modify",
+    "meaning": "개조하다, 수정하다, 바꾸다"
+  },
+  {
+    "word": "distinct",
+    "meaning": "별개의, 구별되는, 명백한, 분명한"
+  },
+  {
+    "word": "regardless of",
+    "meaning": "~와 상관없이, ~과 관계없이"
+  },
+  {
+    "word": "subject",
+    "meaning": "피실험자, 주제, 과목, 주체, 주어, 국민, 백성"
+  },
+  {
+    "word": "performance",
+    "meaning": "수행, 실행, 성적, 성과, 연기, 공연"
+  },
+  {
+    "word": "region",
+    "meaning": "지역, (인체의) 부위"
+  },
+  {
+    "word": "overwhelm",
+    "meaning": "압도하다, (위에서) 덮치다"
+  },
+  {
+    "word": "dynamic",
+    "meaning": "역동적인, 원동력, 힘, 역학 관계, 동력, 역동성"
+  },
+  {
+    "word": "status",
+    "meaning": "신분, 지위, 상태"
+  },
+  {
+    "word": "distinction",
+    "meaning": "차이, 구별, 구분"
+  },
+  {
+    "word": "concept",
+    "meaning": "개념"
+  },
+  {
+    "word": "expertise",
+    "meaning": "전문 지식, 전문성, 전문적 기술"
+  },
+  {
+    "word": "arrangement",
+    "meaning": "배치, 배열, 구조, 체계, 타협, 합의"
+  },
+  {
+    "word": "authority",
+    "meaning": "권위, 권한, 권위자, 당국"
+  },
+  {
+    "word": "era",
+    "meaning": "시대"
+  },
+  {
+    "word": "shift",
+    "meaning": "이동시키다, 전환하다; (근무) 교대, 변화"
+  },
+  {
+    "word": "substitute",
+    "meaning": "대체하다, 대용하다; 대체물, 대용품, 대응물"
+  },
+  {
+    "word": "additional",
+    "meaning": "추가적인, 부가적인"
+  },
+  {
+    "word": "explore",
+    "meaning": "탐구하다, 살펴보다, 탐색하다, 답사[탐사]하다"
+  },
+  {
+    "word": "nutrient",
+    "meaning": "영양분, 영양소"
+  },
+  {
+    "word": "motivation",
+    "meaning": "동기, 동기 부여, 의욕"
+  },
+  {
+    "word": "establish",
+    "meaning": "설립하다, 수립하다, 확립하다, 입증하다"
+  },
+  {
+    "word": "complexity",
+    "meaning": "복잡성"
+  },
+  {
+    "word": "appreciate",
+    "meaning": "이해하다, 감상하다, 제대로 인식하다, 감사하다"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "보장하다, 보증하다; 보장"
+  },
+  {
+    "word": "contribution",
+    "meaning": "기여, 공헌, 참여, 이바지"
+  },
+  {
+    "word": "interfere with",
+    "meaning": "~에 방해가 되다, ~을 방해하다"
+  },
+  {
+    "word": "regulate",
+    "meaning": "규제하다, 조절하다, 통제하다"
+  },
+  {
+    "word": "commitment",
+    "meaning": "헌신, 전념, 책무, 의지, 약속"
+  },
+  {
+    "word": "illusion",
+    "meaning": "착각, 환영, 환상"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "정교한, 수준 높은, 복잡한"
+  },
+  {
+    "word": "launch",
+    "meaning": "출시하다, 개시하다, 열다, 진출하다; 출시, 개시, 발사"
+  },
+  {
+    "word": "domestic",
+    "meaning": "가정의, 국내의, 가정에서 기르는"
+  },
+  {
+    "word": "manipulate",
+    "meaning": "조작하다, 다루다, 솜씨 있게 처리하다, 능숙하게 조작하다"
+  },
+  {
+    "word": "association",
+    "meaning": "연관, 연관성, 연상, 유대, 교제, 친밀한 관계"
+  },
+  {
+    "word": "label",
+    "meaning": "이름 짓다, 라벨을 붙이다, 명명하다, 분류하다, 꼬리표를 붙이다, ~이라고 부르다; 호칭, 라벨"
+  },
+  {
+    "word": "emerge",
+    "meaning": "나타나다, 출현하다, 드러나다, 알려지다, 등장하다, 발현되다, 생겨나다, 발생하다"
+  },
+  {
+    "word": "evaluate",
+    "meaning": "평가하다"
+  },
+  {
+    "word": "attribute",
+    "meaning": "속성, 특성, 자질; ~탓으로 돌리다, ~에 기인하다"
+  },
+  {
+    "word": "conscious",
+    "meaning": "의식적인, 의식의"
+  },
+  {
+    "word": "impose",
+    "meaning": "부여하다, 부과하다"
+  },
+  {
+    "word": "ingredient",
+    "meaning": "성분, 재료, 요소"
+  },
+  {
+    "word": "exclusively",
+    "meaning": "독점적으로, 전적으로"
+  },
+  {
+    "word": "agent",
+    "meaning": "중개인, 대리인, (어떤 행위를 하는) 사람"
+  },
+  {
+    "word": "inherent",
+    "meaning": "내재적인, 내재하는, 선천적인, 고유한, 본래의"
+  },
+  {
+    "word": "grasp",
+    "meaning": "잡다, 이해(파악)하다"
+  },
+  {
+    "word": "stimulus",
+    "meaning": "자극 (pl. stimuli)"
+  },
+  {
+    "word": "reverse",
+    "meaning": "되돌리다, 거꾸로 하다, (방향, 순서 따위를) 역으로 하다, 뒤집다, 반대로 하다, 뒤집히다; 반대, 역"
+  },
+  {
+    "word": "relatively",
+    "meaning": "비교적, 상대적으로"
+  },
+  {
+    "word": "expand",
+    "meaning": "확대하다, 확장하다, 늘어나다, 넓히다"
+  },
+  {
+    "word": "implication",
+    "meaning": "영향, 시사점, 함축, 예상되는[가능한] 결과"
+  },
+  {
+    "word": "cue",
+    "meaning": "신호, 단서"
+  },
+  {
+    "word": "engagement",
+    "meaning": "참여, 개입, 관계, 교감"
+  },
+  {
+    "word": "probability",
+    "meaning": "확률, 가능성"
+  },
+  {
+    "word": "collective",
+    "meaning": "집단적인, 집단의"
+  },
+  {
+    "word": "impulse",
+    "meaning": "충동, 자극"
+  },
+  {
+    "word": "construct",
+    "meaning": "건설하다, 구축[구성]하다, 세우다; 구성체, (구성) 개념"
+  },
+  {
+    "word": "massive",
+    "meaning": "거대한, 대량의, 대규모의, 대대적인"
+  },
+  {
+    "word": "circumstance",
+    "meaning": "상황, 환경"
+  },
+  {
+    "word": "landscape",
+    "meaning": "경관, 풍경, 지형, 전망"
+  },
+  {
+    "word": "transform",
+    "meaning": "바뀌다, 변화시키다, 탈바꿈시키다"
+  },
+  {
+    "word": "serve",
+    "meaning": "제공하다, 충족시키다, 도움이 되다, 기여하다, 이바지하다, 복무하다"
+  },
+  {
+    "word": "document",
+    "meaning": "기록하다"
+  },
+  {
+    "word": "considerable",
+    "meaning": "상당한"
+  },
+  {
+    "word": "refer to",
+    "meaning": "~을 언급하다[부르다]"
+  },
+  {
+    "word": "illustrate",
+    "meaning": "실제로 보여 주다, 실증하다, 삽화를 넣다"
+  },
+  {
+    "word": "budget",
+    "meaning": "예산"
+  },
+  {
+    "word": "literally",
+    "meaning": "말 그대로, 글자 뜻 그대로"
+  },
+  {
+    "word": "identify with",
+    "meaning": "~과 동일시하다, ~와 동질감을 느끼다, ~과 공감하다"
+  },
+  {
+    "word": "emphasis",
+    "meaning": "강조, 강조점, 중점"
+  },
+  {
+    "word": "reduction",
+    "meaning": "감소, 저하, 축약, 축소, 절감(액), 감소(량)"
+  },
+  {
+    "word": "consciousness",
+    "meaning": "의식"
+  },
+  {
+    "word": "ultimately",
+    "meaning": "결국, 궁극적으로"
+  },
+  {
+    "word": "sustainable",
+    "meaning": "지속 가능한"
+  },
+  {
+    "word": "discrimination",
+    "meaning": "차별, 구별, 식별"
+  },
+  {
+    "word": "boundary",
+    "meaning": "경계, 경계선, 영역"
+  },
+  {
+    "word": "security",
+    "meaning": "안전, 보안, 안정, 안보"
+  },
+  {
+    "word": "moral",
+    "meaning": "도덕적인, 도덕의; 교훈"
+  },
+  {
+    "word": "coordination",
+    "meaning": "협응, 협조, 조직화, 조정, (신체) 조정력, 조율"
+  },
+  {
+    "word": "previously",
+    "meaning": "이전에, 이전의, 이전에는"
+  },
+  {
+    "word": "compromise",
+    "meaning": "타협하다, 훼손하다, 손상하다; 타협안, 타협"
+  },
+  {
+    "word": "secondary",
+    "meaning": "부수적인, 부차적인, 이차적인"
+  },
+  {
+    "word": "entity",
+    "meaning": "실체, 독립체, 존재"
+  },
+  {
+    "word": "precisely",
+    "meaning": "정밀하게, 정확하게, 신중하게, 바로"
+  },
+  {
+    "word": "composition",
+    "meaning": "구성(물), 구도, 조합, (음악의) 작품, 화합물"
+  },
+  {
+    "word": "incentive",
+    "meaning": "장려[우대]책, 유인, 자극, 동기"
+  },
+  {
+    "word": "consistent",
+    "meaning": "일관된, 일치하는, 꾸준한, 거듭되는"
+  },
+  {
+    "word": "competitive",
+    "meaning": "경쟁의, 경쟁력 있는, 경기의"
+  },
+  {
+    "word": "proceed",
+    "meaning": "나아가다, 진행되다"
+  },
+  {
+    "word": "trait",
+    "meaning": "특성, 특징, 형질"
+  },
+  {
+    "word": "acquisition",
+    "meaning": "획득, 습득, 매입"
+  },
+  {
+    "word": "physiological",
+    "meaning": "생리학적인, 생리적인"
+  },
+  {
+    "word": "account",
+    "meaning": "설명, 계좌, 계정, 기술; ~라고 간주하다"
+  },
+  {
+    "word": "overall",
+    "meaning": "전반적으로"
+  },
+  {
+    "word": "submission",
+    "meaning": "제출, 출품(작), 복종"
+  },
+  {
+    "word": "evolutionary",
+    "meaning": "진화(론)적인, 진화의"
+  },
+  {
+    "word": "precision",
+    "meaning": "정밀, 정확성"
+  },
+  {
+    "word": "complete",
+    "meaning": "완료하다; 완전한, 전적인, 완성된"
+  },
+  {
+    "word": "practice",
+    "meaning": "관행, 관례, 관습, 실행, 연습"
+  },
+  {
+    "word": "consume",
+    "meaning": "소비하다, 섭취하다"
+  },
+  {
+    "word": "norm",
+    "meaning": "규범, 기준"
+  },
+  {
+    "word": "embrace",
+    "meaning": "받아들이다, 포용하다"
+  },
+  {
+    "word": "essential",
+    "meaning": "필수적인, 본질적인"
+  },
+  {
+    "word": "potentially",
+    "meaning": "잠재적으로"
+  },
+  {
+    "word": "virtually",
+    "meaning": "거의, 사실상"
+  },
+  {
+    "word": "pose",
+    "meaning": "제기하다, 야기하다"
+  },
+  {
+    "word": "deliberate",
+    "meaning": "의도적인, 신중한, 계획적인; 숙고하다"
+  },
+  {
+    "word": "progress",
+    "meaning": "진보, 진전, 발달, 진척"
+  },
+  {
+    "word": "distribute",
+    "meaning": "분배하다, 분포시키다, 나누어주다"
+  },
+  {
+    "word": "entry",
+    "meaning": "출품작, 진입, 참가, 입장"
+  },
+  {
+    "word": "recognition",
+    "meaning": "인지, 인식, 인정"
+  },
+  {
+    "word": "inherently",
+    "meaning": "본질적으로, 선천적으로"
+  },
+  {
+    "word": "innovation",
+    "meaning": "혁신"
+  },
+  {
+    "word": "requirement",
+    "meaning": "요구, 필요조건"
+  },
+  {
+    "word": "drive",
+    "meaning": "이끌다, 몰아붙이다; 추진력, 동인(動因), 욕구, 충동"
+  },
+  {
+    "word": "analysis",
+    "meaning": "분석"
+  },
+  {
+    "word": "mediate",
+    "meaning": "조정하다, 중재하다, (매개로) 전달하다"
+  },
+  {
+    "word": "constraint",
+    "meaning": "제약, 억제, 압박"
+  },
+  {
+    "word": "commercial",
+    "meaning": "상업적인, 광고"
+  },
+  {
+    "word": "constantly",
+    "meaning": "끊임없이, 변함없이, 항상"
+  },
+  {
+    "word": "complicated",
+    "meaning": "복잡한"
+  },
+  {
+    "word": "exposure",
+    "meaning": "노출, 접함"
+  },
+  {
+    "word": "accountability",
+    "meaning": "책임성, 책무, 책임"
+  },
+  {
+    "word": "metaphor",
+    "meaning": "비유, 은유"
+  },
+  {
+    "word": "retain",
+    "meaning": "유지하다, 보유하다, 기억해두다, 잊지 않다"
+  },
+  {
+    "word": "abstract",
+    "meaning": "추상적인; 추상, 발췌하다"
+  },
+  {
+    "word": "emission",
+    "meaning": "배출(물), 배출량, 배기가스"
+  },
+  {
+    "word": "utilize",
+    "meaning": "활용하다, 이용하다"
+  },
+  {
+    "word": "generation",
+    "meaning": "세대, 생성"
+  },
+  {
+    "word": "intention",
+    "meaning": "의도"
+  },
+  {
+    "word": "territory",
+    "meaning": "영토, 영역, 지역"
+  },
+  {
+    "word": "extract",
+    "meaning": "추출하다, 얻어내다"
+  },
+  {
+    "word": "apparent",
+    "meaning": "명백한, 뚜렷한, 외견상의"
+  },
+  {
+    "word": "presumably",
+    "meaning": "아마, 짐작건대"
+  },
+  {
+    "word": "devise",
+    "meaning": "고안하다, 발명하다"
+  },
+  {
+    "word": "extent",
+    "meaning": "정도, 범위"
+  },
+  {
+    "word": "universal",
+    "meaning": "보편적인; 보편적인 것"
+  },
+  {
+    "word": "completely",
+    "meaning": "완벽하게, 완전히"
+  },
+  {
+    "word": "peer",
+    "meaning": "동료, 또래"
+  },
+  {
+    "word": "observation",
+    "meaning": "관찰, 의견, 진술"
+  },
+  {
+    "word": "categorize",
+    "meaning": "분류하다, 범주화하다"
+  },
+  {
+    "word": "transmit",
+    "meaning": "전달하다, 전송하다, 전수하다"
+  },
+  {
+    "word": "prominent",
+    "meaning": "뚜렷한, 두드러진, 저명한"
+  },
+  {
+    "word": "obvious",
+    "meaning": "명백한, 분명한, 뻔한"
+  },
+  {
+    "word": "subsequent",
+    "meaning": "차후의, 이어지는, 나중에"
+  },
+  {
+    "word": "identification",
+    "meaning": "확인, 식별, 검증, 발견, 인지, 밝힘"
+  },
+  {
+    "word": "effect",
+    "meaning": "영향, 효과, 결과, 인상, 느낌; (목적, 계획 등을) 이루다, (어떤 결과를) 가져오다"
+  },
+  {
+    "word": "accessibility",
+    "meaning": "접근성, 접근 가능성, 접근"
+  },
+  {
+    "word": "evolution",
+    "meaning": "진화, 발전"
+  },
+  {
+    "word": "predominantly",
+    "meaning": "주로, 대개, 대부분"
+  },
+  {
+    "word": "previous",
+    "meaning": "이전의, 사전의"
+  },
+  {
+    "word": "ethical",
+    "meaning": "윤리적인"
+  },
+  {
+    "word": "operation",
+    "meaning": "운영, 작동, 작용, 조작, 사업체, 기업체, 수술, 연산"
+  },
+  {
+    "word": "discourse",
+    "meaning": "담론, 담화"
+  },
+  {
+    "word": "architecture",
+    "meaning": "건축, 구조, 체계"
+  },
+  {
+    "word": "criterion",
+    "meaning": "기준 (pl. criteria)"
+  },
+  {
+    "word": "ancestor",
+    "meaning": "조상"
+  },
+  {
+    "word": "present",
+    "meaning": "제시하다, 주다, 발표하다, 제공하다; 존재하는, 현재의"
+  },
+  {
+    "word": "virtual",
+    "meaning": "가상의, 사실상의"
+  },
+  {
+    "word": "continuous",
+    "meaning": "지속적인, 계속되는"
+  },
+  {
+    "word": "by definition",
+    "meaning": "정의상, 당연히, 본질적으로, 말 그대로, 분명히"
+  },
+  {
+    "word": "substance",
+    "meaning": "물질, 본질, 실체, 요점"
+  },
+  {
+    "word": "influential",
+    "meaning": "영향력이 큰, 영향력 있는"
+  },
+  {
+    "word": "interrupt",
+    "meaning": "방해하다, 중단시키다, 가로막다, 끼어들다"
+  },
+  {
+    "word": "claim",
+    "meaning": "주장하다, 외치다, 소리치다, 탄성을 지르다"
+  },
+  {
+    "word": "coordinate",
+    "meaning": "조정하다, 조율하다, 조직화하다"
+  },
+  {
+    "word": "ecological",
+    "meaning": "생태학의, 생태계의, 환경친화적인"
+  },
+  {
+    "word": "encourage",
+    "meaning": "장려하다, 고무하다, 조장하다, 부추기다, 키우다, 복돋우다"
+  },
+  {
+    "word": "trade-off",
+    "meaning": "거래, 균형, 교환, 상호 절충, 타협"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "인정하다, 승인하다, 감사하다"
+  },
+  {
+    "word": "reserve",
+    "meaning": "예약하다, 보존하다, 지키다, 유지하다; 비축"
+  },
+  {
+    "word": "exhibit",
+    "meaning": "전시하다, 보여주다, 나타내다; 전시품"
+  },
+  {
+    "word": "typically",
+    "meaning": "보통, 전형적으로, 일반적으로"
+  },
+  {
+    "word": "reasonable",
+    "meaning": "합리적인, 합당한, 상당한"
+  },
+  {
+    "word": "assert",
+    "meaning": "주장하다, 확고히 하다"
+  },
+  {
+    "word": "admission",
+    "meaning": "입장, 입장료, 입학, 허가, 승인"
+  },
+  {
+    "word": "resolution",
+    "meaning": "해결(책), 결심, 해상도, 선명도"
+  },
+  {
+    "word": "constant",
+    "meaning": "일정한, 끊임없는, 변함없는, 지속적인; 상수"
+  },
+  {
+    "word": "anxiety",
+    "meaning": "불안"
+  },
+  {
+    "word": "operate",
+    "meaning": "작동하다, (사업을) 운영하다, 영업하다, 작용하다, 움직이다"
+  },
+  {
+    "word": "existence",
+    "meaning": "존재, 생활"
+  },
+  {
+    "word": "share",
+    "meaning": "공유하다; 비율, 몫, 점유율"
+  },
+  {
+    "word": "reproduce",
+    "meaning": "재생산하다, 번식시키다, 재현하다, 생식하다, 복제하다"
+  },
+  {
+    "word": "facility",
+    "meaning": "시설, 솜씨, 평이함"
+  },
+  {
+    "word": "enterprise",
+    "meaning": "기업, 회사, 활동, 일"
+  },
+  {
+    "word": "management",
+    "meaning": "경영(진), 관리(자)"
+  },
+  {
+    "word": "prejudice",
+    "meaning": "편견; 편견을 갖게 하다"
+  },
+  {
+    "word": "quantitative",
+    "meaning": "양적인, 정량적인"
+  },
+  {
+    "word": "practical",
+    "meaning": "실용적인, 현실적인, 실제적인"
+  },
+  {
+    "word": "obstacle",
+    "meaning": "장애물, 방해물, 방해, 차단"
+  },
+  {
+    "word": "compose",
+    "meaning": "구성하다, (시, 글을) 작성하다, (음악작품을) 작곡하다"
+  },
+  {
+    "word": "aspiration",
+    "meaning": "열망, 염원, 호흡"
+  },
+  {
+    "word": "benefit",
+    "meaning": "이익, 이점, 혜택, 편익"
+  },
+  {
+    "word": "complex",
+    "meaning": "복잡한; (건물) 단지, 복합 건물"
+  },
+  {
+    "word": "mechanical",
+    "meaning": "기계적인, 기계론적인"
+  },
+  {
+    "word": "institutional",
+    "meaning": "제도적인, 조직의, 기관의"
+  },
+  {
+    "word": "appreciation",
+    "meaning": "이해, 인정, 감사, 평가"
+  },
+  {
+    "word": "psychologist",
+    "meaning": "심리학자"
+  },
+  {
+    "word": "transmission",
+    "meaning": "전달, 전파, 전수, 전송"
+  },
+  {
+    "word": "reveal",
+    "meaning": "드러내다, 폭로하다, 밝히다"
+  },
+  {
+    "word": "violate",
+    "meaning": "위반하다, 위배되다, 어기다, 깨뜨리다"
+  },
+  {
+    "word": "infant",
+    "meaning": "유아"
+  },
+  {
+    "word": "prompt",
+    "meaning": "촉발하다, 자극하다, 유도하다, 힌트를 주다; 촉진제"
+  },
+  {
+    "word": "signal",
+    "meaning": "신호; 신호를 보내다"
+  },
+  {
+    "word": "subjective",
+    "meaning": "주관적인"
+  },
+  {
+    "word": "conclude",
+    "meaning": "결론짓다"
+  },
+  {
+    "word": "approximately",
+    "meaning": "약, 대략"
+  },
+  {
+    "word": "detect",
+    "meaning": "감지하다"
+  },
+  {
+    "word": "adopt",
+    "meaning": "채택하다, 입양하다"
+  },
+  {
+    "word": "employ",
+    "meaning": "고용하다, ~에 종사하다"
+  },
+  {
+    "word": "presence",
+    "meaning": "존재, 실재"
+  },
+  {
+    "word": "eagerly",
+    "meaning": "간절히, 열심히"
+  },
+  {
+    "word": "introduction",
+    "meaning": "도입, 소개, 입문"
+  },
+  {
+    "word": "estimate",
+    "meaning": "추정하다"
+  },
+  {
+    "word": "distinguish",
+    "meaning": "구별하다, 구분하다"
+  },
+  {
+    "word": "host",
+    "meaning": "많음, 다수; 주인, 숙주"
+  },
+  {
+    "word": "process",
+    "meaning": "처리하다; 과정, 진행"
+  },
+  {
+    "word": "fashion",
+    "meaning": "방식, 유행, 패션; 형성하다"
+  },
+  {
+    "word": "draw",
+    "meaning": "이끌다, 당기다, 그리다; 이목[인기]을 끄는 것"
+  },
+  {
+    "word": "core",
+    "meaning": "핵심의; 핵심, 정수"
+  },
+  {
+    "word": "differentiate",
+    "meaning": "구별하다, 식별하다"
+  },
+  {
+    "word": "accurately",
+    "meaning": "정확하게"
+  },
+  {
+    "word": "mobility",
+    "meaning": "이동성, 기동력"
+  },
+  {
+    "word": "inevitably",
+    "meaning": "필연적으로, 불가피하게"
+  },
+  {
+    "word": "manipulation",
+    "meaning": "조작, 조종"
+  },
+  {
+    "word": "productivity",
+    "meaning": "생산성"
+  },
+  {
+    "word": "exclusion",
+    "meaning": "배제, 제외"
+  },
+  {
+    "word": "stable",
+    "meaning": "안정된"
+  },
+  {
+    "word": "critical",
+    "meaning": "중요한, 비평의, 비판적인"
+  },
+  {
+    "word": "interpretation",
+    "meaning": "해석"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "일축하다, 해고하다"
+  },
+  {
+    "word": "sustain",
+    "meaning": "지속시키다, 유지하다, (무게를) 떠받치다, 견디다"
+  },
+  {
+    "word": "exhibition",
+    "meaning": "전시회"
+  },
+  {
+    "word": "attempt",
+    "meaning": "시도; 시도하다"
+  },
+  {
+    "word": "crash",
+    "meaning": "충돌하다; 충돌, 급강하, 급락"
+  },
+  {
+    "word": "competition",
+    "meaning": "경쟁, 경기"
+  },
+  {
+    "word": "attachment",
+    "meaning": "애착, 집착, 결합"
+  },
+  {
+    "word": "anticipate",
+    "meaning": "기대하다, 예측하다, 예상하다"
+  },
+  {
+    "word": "invaluable",
+    "meaning": "매우 귀중한"
+  },
+  {
+    "word": "occur",
+    "meaning": "발생하다, 일어나다, 생기다"
+  },
+  {
+    "word": "circulate",
+    "meaning": "순환시키다, (소문 따위를) 유포하다, 퍼뜨리다"
+  },
+  {
+    "word": "executive",
+    "meaning": "임원"
+  },
+  {
+    "word": "reject",
+    "meaning": "거부하다. 거절하다"
+  },
+  {
+    "word": "rare",
+    "meaning": "희귀한, 드문, 진기한"
+  },
+  {
+    "word": "judgment",
+    "meaning": "판단, 추정"
+  },
+  {
+    "word": "track",
+    "meaning": "추적하다: 흔적"
+  },
+  {
+    "word": "well-being",
+    "meaning": "안녕, 행복, 풍요"
+  },
+  {
+    "word": "convert",
+    "meaning": "개조하다. 전환하다. 전향하다. 변화시키다. 변환하다"
+  },
+  {
+    "word": "crisis",
+    "meaning": "위기"
+  },
+  {
+    "word": "director",
+    "meaning": "이사, 감독, 부장, 부서장"
+  },
+  {
+    "word": "consciously",
+    "meaning": "의식적으로"
+  },
+  {
+    "word": "literature",
+    "meaning": "문헌, 문학, 인쇄물"
+  },
+  {
+    "word": "accuracy",
+    "meaning": "정확성"
+  },
+  {
+    "word": "ensure",
+    "meaning": "보장하다. 확실하게 하다"
+  },
+  {
+    "word": "colony",
+    "meaning": "군집, 집단, 식민지"
+  },
+  {
+    "word": "distraction",
+    "meaning": "방해 요소, 주의를 산만하게 하는 것, 혼란"
+  },
+  {
+    "word": "post",
+    "meaning": "(웹사이트에) 게시하다. 올리다"
+  },
+  {
+    "word": "irrelevant",
+    "meaning": "관련성이 없는, 무의미한, 무관한"
+  },
+  {
+    "word": "register",
+    "meaning": "기록하다. 등록하다: 기록, 등록, 계산대"
+  },
+  {
+    "word": "inspiration",
+    "meaning": "영감, 기발한 생각"
+  },
+  {
+    "word": "physicist",
+    "meaning": "물리학자"
+  },
+  {
+    "word": "proposition",
+    "meaning": "일, 명제, 제안, 문제, 진술"
+  },
+  {
+    "word": "unprecedented",
+    "meaning": "전례 없는"
+  },
+  {
+    "word": "characteristic",
+    "meaning": "특징, 특성"
+  },
+  {
+    "word": "reliable",
+    "meaning": "신뢰할 수 있는"
+  },
+  {
+    "word": "term",
+    "meaning": "용어, 기간, 조건 일컫다"
+  },
+  {
+    "word": "permanent",
+    "meaning": "영구적인, 불변의, 영원한"
+  },
+  {
+    "word": "loyalty",
+    "meaning": "충성심, 충심"
+  },
+  {
+    "word": "flexible",
+    "meaning": "유연한, 융통성이 있는"
+  },
+  {
+    "word": "crop",
+    "meaning": "수확량, 작물, 농작물; 경작하다"
+  },
+  {
+    "word": "concrete",
+    "meaning": "구체적인, 구상(具象)적인: 콘크리트"
+  },
+  {
+    "word": "via",
+    "meaning": "~을 통하여, ~를 매개로 하여"
+  },
+  {
+    "word": "unique",
+    "meaning": "고유한, 독특한, 유일한, 특별한"
+  },
+  {
+    "word": "argument",
+    "meaning": "주장, 논거, 논쟁"
+  },
+  {
+    "word": "cluster",
+    "meaning": "무리, 떼, 덩어리; 무리를 형성하다"
+  },
+  {
+    "word": "apply",
+    "meaning": "적용하다"
+  },
+  {
+    "word": "combination",
+    "meaning": "조합, 결합"
+  },
+  {
+    "word": "strive",
+    "meaning": "노력하다. 분투하다. 애쓰다"
+  },
+  {
+    "word": "urge",
+    "meaning": "욕구, 충동: 권고하다"
+  },
+  {
+    "word": "substantial",
+    "meaning": "상당한, 실직적인"
+  },
+  {
+    "word": "infrastructure",
+    "meaning": "(산업·사회의) 기반 시설"
+  },
+  {
+    "word": "stimulate",
+    "meaning": "자극하다. 활발하게 하다. 촉진하다"
+  },
+  {
+    "word": "neural",
+    "meaning": "신경의"
+  },
+  {
+    "word": "consistently",
+    "meaning": "일관적으로, 지속적으로"
+  },
+  {
+    "word": "spot",
+    "meaning": "(특정한) 장소, 지점, 점: 발견하다"
+  },
+  {
+    "word": "restrict",
+    "meaning": "제한하다. 한정하다"
+  },
+  {
+    "word": "persuasive",
+    "meaning": "설득력 있는"
+  },
+  {
+    "word": "ethics",
+    "meaning": "윤리, 윤리학"
+  },
+  {
+    "word": "obligation",
+    "meaning": "의무, 책무"
+  },
+  {
+    "word": "fiction",
+    "meaning": "소설, 허구, 꾸며낸 이야기, 허구의 창작물"
+  },
+  {
+    "word": "compelling",
+    "meaning": "강력한, 흥미진진한, 설득력 있는"
+  },
+  {
+    "word": "immigrant",
+    "meaning": "이민자: 이민자의, 이민의"
+  },
+  {
+    "word": "genetic",
+    "meaning": "유전적인"
+  },
+  {
+    "word": "impact",
+    "meaning": "영향"
+  },
+  {
+    "word": "candidate",
+    "meaning": "후보, 지원자"
+  },
+  {
+    "word": "adjust",
+    "meaning": "조정하다. 맞추다"
+  },
+  {
+    "word": "sensible",
+    "meaning": "합리적인, 분별 있는"
+  },
+  {
+    "word": "entail",
+    "meaning": "수반하다"
+  },
+  {
+    "word": "tackle",
+    "meaning": "다루다. 처리하다"
+  },
+  {
+    "word": "location",
+    "meaning": "장소, 위치"
+  },
+  {
+    "word": "passive",
+    "meaning": "수동적인, 수동의"
+  },
+  {
+    "word": "separate",
+    "meaning": "분리하다. 구분하다: 분리된, 별개의"
+  },
+  {
+    "word": "transition",
+    "meaning": "전환, 변화, 이행, 변천"
+  },
+  {
+    "word": "registration",
+    "meaning": "등록"
+  },
+  {
+    "word": "spark",
+    "meaning": "촉발하다. 불러일으키다. (웃음따위를) 자아내다. 섬광, 불꽃"
+  },
+  {
+    "word": "boost",
+    "meaning": "북돋다. 증진하다. 높이다. 부양하다. 증대하다: 급상승, 증대"
+  },
+  {
+    "word": "apparently",
+    "meaning": "외관상으로는, 언뜻 보기에 겉보기에"
+  },
+  {
+    "word": "intellectual",
+    "meaning": "지적인, 지능의 지식인"
+  },
+  {
+    "word": "vulnerable",
+    "meaning": "취약한, 연약한, 상처를 입기쉬운"
+  },
+  {
+    "word": "confront",
+    "meaning": "직면하다. 마주하다"
+  },
+  {
+    "word": "venture into",
+    "meaning": "~을 탐험하다. ~으로 과감하게 들어가다. 위험을 무릅쓰고~을 하다"
+  },
+  {
+    "word": "induce",
+    "meaning": "유도하다. 유발하다"
+  },
+  {
+    "word": "conserve",
+    "meaning": "보존하다. 아껴 쓰다. 절약하다"
+  },
+  {
+    "word": "significantly",
+    "meaning": "상당히, 의미심장하게, 훨씬, 크게"
+  },
+  {
+    "word": "overlap",
+    "meaning": "겹치다"
+  },
+  {
+    "word": "precise",
+    "meaning": "정확한, 정밀한"
+  },
+  {
+    "word": "random",
+    "meaning": "무작위적인"
+  },
+  {
+    "word": "grab",
+    "meaning": "붙잡다. 움켜잡다. 잡아채다. 낚아채다"
+  },
+  {
+    "word": "thereby",
+    "meaning": "그렇게 함으로써, 그것 때문에, 그로 인해"
+  },
+  {
+    "word": "current",
+    "meaning": "현재의, 널리 알려진: 흐름, 해류, 조류"
+  },
+  {
+    "word": "respondent",
+    "meaning": "응답자"
+  },
+  {
+    "word": "concentration",
+    "meaning": "(노력·정신 등의) 집중, (액체의) 농도"
+  },
+  {
+    "word": "explicit",
+    "meaning": "명시적인, 명확한, 분명한"
+  },
+  {
+    "word": "cover",
+    "meaning": "다루다. 보도하다. 취재하다"
+  },
+  {
+    "word": "internalize",
+    "meaning": "내면화하다"
+  },
+  {
+    "word": "exceptional",
+    "meaning": "특별한, 비범한, 예외적인, 이례적일 정도로 우수한, 아주 뛰어난"
+  },
+  {
+    "word": "respond",
+    "meaning": "반응하다. 대응하다"
+  },
+  {
+    "word": "depression",
+    "meaning": "우울(증), 불경기"
+  },
+  {
+    "word": "ordinary",
+    "meaning": "평범한, 일상적인, 보통의"
+  },
+  {
+    "word": "purely",
+    "meaning": "순전히, 단지, 다만"
+  },
+  {
+    "word": "expose",
+    "meaning": "노출시키다. 접하게 하다. 경험하게 하다"
+  },
+  {
+    "word": "contain",
+    "meaning": "포함하다. 함유하다. (감정을) 참다. 억누르다"
+  },
+  {
+    "word": "efficiency",
+    "meaning": "효율(성), 능력, 유효성"
+  },
+  {
+    "word": "constructive",
+    "meaning": "건설적인, 구성적인"
+  },
+  {
+    "word": "companion",
+    "meaning": "동료, 동반자, 친구"
+  },
+  {
+    "word": "in principle",
+    "meaning": "원칙적으로, 이론상으로"
+  },
+  {
+    "word": "structure",
+    "meaning": "구조화하다. 조정하다. 구성하다: 구조"
+  },
+  {
+    "word": "aesthetics",
+    "meaning": "미학"
+  },
+  {
+    "word": "experiment",
+    "meaning": "실험: 실험하다"
+  },
+  {
+    "word": "multiple",
+    "meaning": "다수의, 다양한"
+  },
+  {
+    "word": "visual",
+    "meaning": "시각의: 시각 자료"
+  },
+  {
+    "word": "framework",
+    "meaning": "틀, 체계"
+  },
+  {
+    "word": "reward",
+    "meaning": "보상하다: 보상"
+  },
+  {
+    "word": "significance",
+    "meaning": "중요성, 의미, 중요한 것"
+  },
+  {
+    "word": "reservation",
+    "meaning": "예약, (원주민) 보호구역, 금렵지"
+  },
+  {
+    "word": "object",
+    "meaning": "물체, 목적어, 대상, 반대하다"
+  },
+  {
+    "word": "adapt",
+    "meaning": "적응시키다. 각색하다. 순응하다"
+  },
+  {
+    "word": "predict",
+    "meaning": "예측하다"
+  },
+  {
+    "word": "governance",
+    "meaning": "통제, 지배, 통치 (방식). 관리(방식)"
+  },
+  {
+    "word": "justify",
+    "meaning": "정당화하다"
+  },
+  {
+    "word": "harvest",
+    "meaning": "수확하다: 수확"
+  },
+  {
+    "word": "opposite",
+    "meaning": "반대(되는 것), 정반대의 일: 정반대의"
+  },
+  {
+    "word": "fine-tune",
+    "meaning": "미세하게 조정하다. 정교하게 다듬다"
+  },
+  {
+    "word": "override",
+    "meaning": "무시하다"
+  },
+  {
+    "word": "overlook",
+    "meaning": "간과하다. 내려다보다"
+  },
+  {
+    "word": "negotiation",
+    "meaning": "협상, 타협"
+  },
+  {
+    "word": "infer",
+    "meaning": "추론하다. 추단하다"
+  },
+  {
+    "word": "treatment",
+    "meaning": "대우, 처우, 치료"
+  },
+  {
+    "word": "at best",
+    "meaning": "기껏해야, 잘해야"
+  },
+  {
+    "word": "population",
+    "meaning": "개체수, 인구 (집단), 모집단, 개체군"
+  },
+  {
+    "word": "linear",
+    "meaning": "선형의, 선으로 된, 직선의"
+  },
+  {
+    "word": "material",
+    "meaning": "물질적인, 육체상의: 재재, 재료"
+  },
+  {
+    "word": "regulate",
+    "meaning": "(기온·속도 등을) 조절하다, 통제하다, 규제하다"
+  },
+  {
+    "word": "in terms of",
+    "meaning": "~의 측면에서, ~의 관점에서"
+  },
+  {
+    "word": "dominant",
+    "meaning": "우세한, 지배적인, 주된"
+  },
+  {
+    "word": "reasoning",
+    "meaning": "추론"
+  },
+  {
+    "word": "intense",
+    "meaning": "격렬한, 격심한, 치열한, 강렬한, 열정적인"
+  },
+  {
+    "word": "existing",
+    "meaning": "기존의, 현존하는"
+  },
+  {
+    "word": "corporate",
+    "meaning": "회사의, 기업의, 공동의"
+  },
+  {
+    "word": "consequence",
+    "meaning": "결과"
+  },
+  {
+    "word": "phenomenon",
+    "meaning": "현상, 사건"
+  },
+  {
+    "word": "abstract",
+    "meaning": "추상적인, 관념적인"
+  },
+  {
+    "word": "fundamental",
+    "meaning": "근본적인, 기본적인, 핵심적인"
+  },
+  {
+    "word": "cognitive",
+    "meaning": "인지의, 인식의"
+  },
+  {
+    "word": "perspective",
+    "meaning": "관점, 시각, 전망, 원근법"
+  },
+  {
+    "word": "bias",
+    "meaning": "편견, 성향, 편향성"
+  },
+  {
+    "word": "identify",
+    "meaning": "식별하다, 발견하다, 동일시하다"
+  },
+  {
+    "word": "determine",
+    "meaning": "결정하다, 알아내다, 밝히다"
+  },
+  {
+    "word": "perception",
+    "meaning": "지각, 인식, 인지"
+  },
+  {
+    "word": "exclusive",
+    "meaning": "독점적인, 전용의, 한정된"
+  },
+  {
+    "word": "duration",
+    "meaning": "지속 기간, 소요 기간, 지속, 기간"
+  },
+  {
+    "word": "delay",
+    "meaning": "지연시키다, 미루다; 지연, 연기"
+  },
+  {
+    "word": "property",
+    "meaning": "속성, 특성, 성질"
+  },
+  {
+    "word": "assess",
+    "meaning": "평가하다, 판단하다"
+  },
+  {
+    "word": "overcome",
+    "meaning": "극복하다"
+  },
+  {
+    "word": "adopt",
+    "meaning": "채택하다, 입양하다"
+  },
+  {
+    "word": "address",
+    "meaning": "다루다, 대처하다, 처리하다, 해결하다"
+  },
+  {
+    "word": "feature",
+    "meaning": "특징, 특색, 특별"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "설명하다, 입증하다, 보여주다"
+  },
+  {
+    "word": "accompany",
+    "meaning": "~에 동반하다, 동행하다"
+  },
+  {
+    "word": "distribute",
+    "meaning": "분배하다, 분포시키다, 나누어주다"
+  },
+  {
+    "word": "potential",
+    "meaning": "잠재적인, 잠재력, 가능성"
+  },
+  {
+    "word": "component",
+    "meaning": "구성 요소"
+  },
+  {
+    "word": "involve",
+    "meaning": "포함하다, 수반하다, 연루시키다"
+  },
+  {
+    "word": "crucial",
+    "meaning": "매우 중요한, 결정적인"
+  },
+  {
+    "word": "implement",
+    "meaning": "시행하다, 실행하다, 이행하다"
+  },
+  {
+    "word": "interpret",
+    "meaning": "해석하다"
+  },
+  {
+    "word": "generate",
+    "meaning": "생산하다, 생성하다, 창출하다"
+  },
+  {
+    "word": "access",
+    "meaning": "접근, 이용, 접근성"
+  },
+  {
+    "word": "generalization",
+    "meaning": "일반화"
+  },
+  {
+    "word": "deposit",
+    "meaning": "(특정한 장소에) 놓다, 퇴적시키다; (광물) 매장층, 퇴적물"
+  },
+  {
+    "word": "intuition",
+    "meaning": "직관, 직감"
+  },
+  {
+    "word": "delicate",
+    "meaning": "깨지기 쉬운, 섬세한, 취약한"
+  },
+  {
+    "word": "destination",
+    "meaning": "목적지"
+  },
+  {
+    "word": "identity",
+    "meaning": "정체성"
+  },
+  {
+    "word": "translate",
+    "meaning": "번역하다, (다른 형식·형태로) 바꾸다, 이동시키다"
+  },
+  {
+    "word": "mechanism",
+    "meaning": "기제, 매커니즘, 구조"
+  },
+  {
+    "word": "ultimate",
+    "meaning": "궁극적인, 최종적인, 최고의"
+  },
+  {
+    "word": "engage",
+    "meaning": "참여하다, 관여하다, 고용하다, 약속하다"
+  },
+  {
+    "word": "modify",
+    "meaning": "개조하다, 수정하다, 바꾸다"
+  },
+  {
+    "word": "notion",
+    "meaning": "개념, 관념"
+  },
+  {
+    "word": "variation",
+    "meaning": "변화, 차이, 변동, 변이"
+  },
+  {
+    "word": "trigger",
+    "meaning": "촉발하다, 일으키다; 방아쇠, 유인, 자극"
+  },
+  {
+    "word": "shift",
+    "meaning": "이동시키다, 전환하다; (근무) 교대, 변화"
+  },
+  {
+    "word": "convention",
+    "meaning": "관습, 관례, 대회"
+  },
+  {
+    "word": "acquire",
+    "meaning": "획득하다, 습득하다"
+  },
+  {
+    "word": "alternative",
+    "meaning": "대안의, 다른; 대안, 대체품"
+  },
+  {
+    "word": "consequence",
+    "meaning": "결과"
+  },
+  {
+    "word": "aspect",
+    "meaning": "측면, 양상"
+  },
+  {
+    "word": "domain",
+    "meaning": "분야, 영역, 범위"
+  }
+]

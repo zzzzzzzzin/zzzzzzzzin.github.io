@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>미미보카 — 오프라인 단어 시험</title>
+<style>
+body { font-family: 'Pretendard', sans-serif; background:#f8fafc; color:#111; padding:20px }
+h1 { text-align:center; margin-bottom:10px }
+.meta { text-align:center; color:#555; margin-bottom:20px }
+.quiz { max-width:960px; margin:0 auto }
+.question { background:#fff; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.08); padding:14px 18px; margin-bottom:16px }
+.question h3 { margin:0 0 10px 0 }
+.options button { display:block; width:100%; text-align:left; background:#f1f5f9; border:none; padding:10px; border-radius:8px; margin-bottom:8px; cursor:pointer; transition:0.12s; font-size:15px }
+.options button:hover { background:#e2e8f0 }
+.options button.correct { background:#bbf7d0 }
+.options button.wrong { background:#fecaca }
+.options button.skip { background:#fef3c7 }
+.controls { text-align:center; margin-top:12px }
+.controls button { padding:8px 12px; border-radius:8px; border:none; cursor:pointer; margin:0 6px }
+#summary { background:#fff; max-width:960px; margin:20px auto; padding:14px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.08) }
+</style>
+</head>
+<body>
+  <h1>수능 얼마 안 남았다 힘내보자</h1>
+  <div class="meta">미미보카 형식 — words.json 불러와서 4지선다 퀴즈</div>
+
+  <div style="text-align:center;margin-bottom:20px;">
+    <input type="file" id="fileInput" accept=".json" />
+    <br><br>
+    <input id="rangeStart" type="number" placeholder="시작 번호" style="width:90px;padding:4px;"> ~
+    <input id="rangeEnd" type="number" placeholder="끝 번호" style="width:90px;padding:4px;">
+    <button onclick="startQuiz()">시험 시작</button>
+  </div>
+
+  <div class="quiz" id="quiz"></div>
+  <div id="results"></div>
+  <div class="controls" id="controls" style="display:none">
+    <button id="downloadCsv">오답·모름 CSV 다운로드</button>
+    <button onclick="location.reload()">다시 풀기</button>
+  </div>
+  <div id="summary" style="display:none"></div>
+
+<script>
+let wordsData = [];
+let wrong = new Set(), skipped = new Set(), answered = 0, total = 0;
+
+document.getElementById('fileInput').addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (!file) return alert('파일을 선택하세요.');
+  const reader = new FileReader();
+  reader.onload = function(ev) {
+    try {
+      wordsData = JSON.parse(ev.target.result);
+      alert(`✅ ${wordsData.length}개의 단어가 불러와졌습니다.`);
+    } catch {
+      alert('⚠️ JSON 파일 형식이 잘못되었습니다.');
+    }
+  };
+  reader.readAsText(file, 'utf-8');
+});
+
+function startQuiz(){
+  if (!wordsData.length) return alert('먼저 words.json 파일을 불러오세요!');
+  const start = parseInt(document.getElementById('rangeStart').value || 1);
+  const end = parseInt(document.getElementById('rangeEnd').value || wordsData.length);
+  const data = wordsData.slice(start-1, end);
+  total = data.length;
+  document.getElementById('quiz').innerHTML = '';
+  wrong.clear(); skipped.clear(); answered = 0;
+  loadQuestions(data);
+}
+
+function shuffle(arr){
+  for(let i=arr.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [arr[i],arr[j]]=[arr[j],arr[i]];
+  }
+  return arr;
+}
+
+function loadQuestions(words){
+  const quiz = document.getElementById('quiz');
+  words.forEach((item,idx)=>{
+    const div=document.createElement('div');
+    div.className='question';
+    div.innerHTML=`<h3>${idx+1}. ${item.word}</h3>`;
+    const opts=document.createElement('div');
+    opts.className='options';
+    const correct=item.meaning;
+    const pool = shuffle(words.map(d=>d.meaning).filter(m=>m!==correct)).slice(0,3);
+    const options=shuffle([correct,...pool]);
+    options.forEach(opt=>{
+      const b=document.createElement('button'); b.textContent=opt;
+      b.onclick=()=>{
+        [...opts.querySelectorAll('button')].forEach(bb=>bb.disabled=true);
+        if(opt===correct){ b.classList.add('correct'); } else { b.classList.add('wrong'); wrong.add(item.word); }
+        const p=document.createElement('p'); p.textContent='정답: '+correct; p.style.marginTop='8px'; div.appendChild(p);
+        answered++; checkEnd(words);
+      };
+      opts.appendChild(b);
+    });
+    const skip=document.createElement('button');
+    skip.textContent='모르겠다';
+    skip.onclick=()=>{
+      [...opts.querySelectorAll('button')].forEach(bb=>bb.disabled=true);
+      skip.classList.add('skip');
+      skipped.add(item.word);
+      const p=document.createElement('p'); p.textContent='정답: '+correct; p.style.marginTop='8px'; div.appendChild(p);
+      answered++; checkEnd(words);
+    };
+    opts.appendChild(skip);
+    div.appendChild(opts);
+    quiz.appendChild(div);
+  });
+}
+
+function checkEnd(words){
+  if(answered>=total){
+    const wrongList = Array.from(wrong);
+    const skipList = Array.from(skipped);
+    document.getElementById('results').innerHTML =
+      `<h2>시험 완료 🎯</h2><p>틀린 단어: ${wrongList.length||'없음'}</p><p>모르겠다로 표시한 단어: ${skipList.length||'없음'}</p>`;
+    document.getElementById('controls').style.display='block';
+    const s=document.getElementById('summary');
+    let html='<h3>오답 및 모름 정리</h3>';
+    if(wrongList.length) html+='<strong>틀린 단어</strong><ul>'+wrongList.map(w=>{
+      const m=words.find(x=>x.word===w).meaning; return `<li>${w} — ${m}</li>`;
+    }).join('')+'</ul>';
+    if(skipList.length) html+='<strong>모르겠다 단어</strong><ul>'+skipList.map(w=>{
+      const m=words.find(x=>x.word===w).meaning; return `<li>${w} — ${m}</li>`;
+    }).join('')+'</ul>';
+    s.innerHTML=html; s.style.display='block';
+  }
+}
+
+document.getElementById('downloadCsv').onclick=function(){
+  const rows=[['type','word','meaning']];
+  wrong.forEach(w=>{
+    const m=wordsData.find(x=>x.word===w).meaning; rows.push(['wrong',w,m]);
+  });
+  skipped.forEach(w=>{
+    const m=wordsData.find(x=>x.word===w).meaning; rows.push(['skip',w,m]);
+  });
+  const csv=rows.map(r=>r.map(c=>`"${c.replace(/"/g,'""')}"`).join(',')).join('\n');
+  const blob=new Blob([csv],{type:'text/csv;charset=utf-8;'});
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement('a');
+  a.href=url; a.download='오답_모름.csv';
+  a.click();
+  URL.revokeObjectURL(url);
+};
+</script>
+</body>
+</html>
